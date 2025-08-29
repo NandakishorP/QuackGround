@@ -1,0 +1,15 @@
+{
+  "name": "Quack NFT #1",
+  "description": "This is the first AI-generated Quack NFT",
+  "image": "https://gateway.pinata.cloud/ipfs/bafkreibci2hxlpvjedc5uwotcj25xo7snwqcd3kdksxrkrxsfmi4vrnl4m",
+  "attributes": [
+    {
+      "trait_type": "Creator",
+      "value": "AI Agent"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "1 of 1"
+    }
+  ]
+}
