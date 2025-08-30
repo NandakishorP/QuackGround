@@ -54,6 +54,7 @@ contract QuackMarketplace is ReentrancyGuard {
     IERC20 public immutable duckToken;
 
     uint256 public marketplaceFeeBps;
+
     address public daoTreasury;
 
     mapping(address => bool) public aiAgents;
